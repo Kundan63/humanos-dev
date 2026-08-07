@@ -1,0 +1,381 @@
+# Zoology
+
+> *Zoology explains the diversity of animal life. It reveals how animals evolved, survive, behave, interact with ecosystems, and ultimately how humans became one branch of the animal kingdom.*
+
+---
+
+# What is Zoology?
+
+Zoology is the branch of biology that studies **animals**.
+
+It investigates:
+
+- Animal diversity
+- Animal anatomy
+- Animal physiology
+- Animal behaviour
+- Animal development
+- Animal evolution
+- Animal genetics
+- Animal ecology
+- Animal classification
+
+Zoology seeks to understand every aspect of animal life—from microscopic invertebrates to whales, elephants, birds, insects, and humans. It examines both living and extinct animals and their relationships with one another and with their environments.
+
+---
+
+# Why does Zoology exist?
+
+Animals are among the most diverse and complex forms of life on Earth.
+
+Over hundreds of millions of years, evolution has produced millions of animal species adapted to nearly every environment.
+
+Animals play essential roles in Earth's ecosystems:
+
+- Pollination
+- Seed dispersal
+- Predation
+- Nutrient cycling
+- Population regulation
+- Food webs
+
+Humans are also animals.
+
+Studying animals therefore helps us understand:
+
+- Our own biology.
+- Human evolution.
+- Behaviour.
+- Health.
+- Ecology.
+- Biodiversity.
+
+Without zoology, humanity would understand only a small part of the living world.
+
+---
+
+# How does Zoology work?
+
+Zoology studies animals from molecules to ecosystems.
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Animal Kingdom</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Evolution &amp; Classification</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Anatomy</span> Physiology, Genetics</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Behaviour</span> Development</div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">5</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Ecology &amp; Ecosystems</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">6</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Humans &amp; Civilization</span></div>
+</div>
+</div>
+
+Modern zoology combines genetics, evolution, ecology, physiology, behaviour, molecular biology, and environmental science to understand how animals live and interact with the world.
+
+---
+
+# The Animal Kingdom
+
+Animals occupy an extraordinary range of environments and lifestyles.
+
+<div class="tree-diagram">
+<div class="tree-node tree-node-root">Animal Kingdom</div>
+<div class="tree-children">
+<div class="tree-item"><div class="tree-node">Invertebrates</div></div>
+<div class="tree-item"><div class="tree-node">Fish &amp; Amphibians</div></div>
+<div class="tree-item"><div class="tree-node">Reptiles</div></div>
+</div>
+</div>
+
+<div class="flow-steps">
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">1</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Birds, Mammals</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">2</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Primates</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">3</div><div class="flow-step-line"></div></div>
+<div class="flow-step-content"><span class="flow-step-title">Humans</span></div>
+</div>
+<div class="flow-step">
+<div class="flow-step-rail"><div class="flow-step-num">4</div></div>
+<div class="flow-step-content"><span class="flow-step-title">Science Studies Itself</span></div>
+</div>
+</div>
+
+Although animals differ enormously in size, behaviour, and habitat, they share common evolutionary ancestry and many fundamental biological characteristics.
+
+---
+
+# Reality Connections
+
+<div class="diagram-panel" style="max-width:680px"><svg width="100%" viewBox="0 0 730 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relationship diagram for Zoology"><defs><marker id="hos-arrow2" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="var(--gray)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><line x1="125.1" y1="63.0" x2="284.0" y2="123.0" stroke="var(--gray)" stroke-width="1.4" opacity="0.75" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="45.0" width="101.1" height="36" rx="7" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="70.5" y="68.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Evolution</text><line x1="149.4" y1="113.0" x2="284.0" y2="133.0" stroke="var(--gray)" stroke-width="1.4" opacity="0.75" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="95.0" width="125.4" height="36" rx="7" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="82.7" y="118.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Cell Biology</text><line x1="120.0" y1="163.0" x2="284.0" y2="143.0" stroke="var(--gray)" stroke-width="1.4" opacity="0.75" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="145.0" width="96.0" height="36" rx="7" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="68.0" y="168.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Genetics</text><line x1="120.0" y1="213.0" x2="284.0" y2="153.0" stroke="var(--gray)" stroke-width="1.4" opacity="0.75" marker-end="url(#hos-arrow2)"/><rect x="20.0" y="195.0" width="96.0" height="36" rx="7" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="68.0" y="218.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Botany</text><line x1="446.0" y1="123.0" x2="580.6" y2="38.0" stroke="var(--gray)" stroke-width="1.4" opacity="0.75" marker-end="url(#hos-arrow2)"/><rect x="584.6" y="20.0" width="125.4" height="36" rx="7" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="647.3" y="43.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Biodiversity</text><line x1="446.0" y1="130.5" x2="610.0" y2="88.0" stroke="var(--gray)" stroke-width="1.4" opacity="0.75" marker-end="url(#hos-arrow2)"/><rect x="614.0" y="70.0" width="96.0" height="36" rx="7" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="662.0" y="93.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Human</text><line x1="446.0" y1="138.0" x2="540.0" y2="138.0" stroke="var(--gray)" stroke-width="1.4" opacity="0.75" marker-end="url(#hos-arrow2)"/><rect x="544.0" y="120.0" width="166.0" height="36" rx="7" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="627.0" y="143.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Health &amp; Medicine</text><line x1="446.0" y1="145.5" x2="596.8" y2="188.0" stroke="var(--gray)" stroke-width="1.4" opacity="0.75" marker-end="url(#hos-arrow2)"/><rect x="600.8" y="170.0" width="109.2" height="36" rx="7" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="655.4" y="193.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Psychology</text><line x1="446.0" y1="153.0" x2="610.0" y2="238.0" stroke="var(--gray)" stroke-width="1.4" opacity="0.75" marker-end="url(#hos-arrow2)"/><rect x="614.0" y="220.0" width="96.0" height="36" rx="7" fill="var(--lightgray)" stroke="var(--gray)" stroke-width="1.2"/><text x="662.0" y="243.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="13" fill="var(--darkgray)">Ecology</text><rect x="290.0" y="115.0" width="150.0" height="46" rx="9" fill="var(--section-accent, var(--secondary))" stroke="var(--lightgray)" stroke-width="1.2"/><text x="365.0" y="143.0" text-anchor="middle" font-family="var(--bodyFont)" font-weight="700" font-size="14.5" fill="#0a0a0f">Zoology</text><text x="20" y="8.0" font-family="var(--bodyFont)" font-size="11" fill="var(--gray)" letter-spacing="0.05em">DEPENDS ON</text><text x="520" y="8.0" font-family="var(--bodyFont)" font-size="11" fill="var(--gray)" letter-spacing="0.05em">ENABLES</text><text x="20" y="282.0" font-family="var(--bodyFont)" font-size="11" fill="var(--gray)" letter-spacing="0.05em">RELATED</text><rect x="20.0" y="288.0" width="135.7" height="27" rx="13.5" fill="none" stroke="var(--gray)" stroke-width="1.2"/><text x="87.8" y="306.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Animal Kingdom</text><rect x="165.7" y="288.0" width="151.9" height="27" rx="13.5" fill="none" stroke="var(--gray)" stroke-width="1.2"/><text x="241.6" y="306.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Animal Behaviour</text><rect x="327.6" y="288.0" width="176.3" height="27" rx="13.5" fill="none" stroke="var(--gray)" stroke-width="1.2"/><text x="415.7" y="306.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Comparative Anatomy</text><rect x="513.9" y="288.0" width="87.0" height="27" rx="13.5" fill="none" stroke="var(--gray)" stroke-width="1.2"/><text x="557.4" y="306.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Wildlife</text><rect x="610.8" y="288.0" width="95.1" height="27" rx="13.5" fill="none" stroke="var(--gray)" stroke-width="1.2"/><text x="658.4" y="306.0" text-anchor="middle" font-family="var(--bodyFont)" font-size="12" fill="var(--darkgray)">Evolution</text></svg></div>
+
+Zoology connects the diversity of animal life with ecosystems, human biology, and civilization.
+
+---
+
+# Why should humans care?
+
+Humans interact with animals every day.
+
+Animals provide:
+
+> [!success]
+> - Food
+> - Pollination
+> - Ecosystem balance
+> - Medicines
+> - Scientific research
+> - Companionship
+> - Economic livelihoods
+
+Understanding zoology helps humans:
+
+> [!success]
+> - Improve animal welfare.
+> - Develop medicines.
+> - Control diseases.
+> - Protect endangered species.
+> - Improve agriculture.
+> - Preserve biodiversity.
+> - Better understand ourselves.
+
+Because humans are members of the animal kingdom, zoology is also the study of our own biological heritage.
+
+---
+
+# Daily Life Examples
+
+<div class="card-grid">
+<div class="os-card os-card-static"><span class="os-card-icon">🐄</span><span class="os-card-title">Food</span><span class="os-card-desc">Livestock, poultry, fish, and many other animals provide important sources of nutrition for billions of people.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🐝</span><span class="os-card-title">Pollination</span><span class="os-card-desc">Many crops depend on insects such as bees, butterflies, and other pollinators for successful reproduction.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🐕</span><span class="os-card-title">Companion Animals</span><span class="os-card-desc">Dogs, cats, and other companion animals improve quality of life and contribute to physical and mental well-being.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🦟</span><span class="os-card-title">Disease Control</span><span class="os-card-desc">Understanding mosquitoes, ticks, and other animal vectors helps prevent diseases such as malaria and dengue.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🧪</span><span class="os-card-title">Medical Research</span><span class="os-card-desc">Studies of animals have contributed to advances in vaccines, surgical techniques, physiology, and medicines while increasingly emphasizing ethical research practices.</span></div>
+<div class="os-card os-card-static"><span class="os-card-icon">🌿</span><span class="os-card-title">Wildlife Conservation</span><span class="os-card-desc">Protecting animal populations helps maintain healthy ecosystems that also support human life.</span></div>
+</div>
+
+---
+
+# Human Impact
+
+<div class="domain-figure">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Dr._Salim_Ali_statue.jpg?width=1200" alt="Statue of Dr. Salim Ali, the Indian ornithologist known as the 'Birdman of India'">
+<p class="domain-figure-caption">Statue of Dr. Salim Ali, the "Birdman of India" who pioneered systematic ornithology across the country — via Wikimedia Commons</p>
+</div>
+
+## Human Body
+
+Humans belong to the animal kingdom.
+
+Zoology helps explain:
+
+- Human anatomy
+- Organ systems
+- Movement
+- Reproduction
+- Physiology
+- Evolutionary adaptations
+
+Comparative studies of other animals improve our understanding of the human body.
+
+---
+
+## Human Mind
+
+Many aspects of behaviour—including learning, communication, cooperation, and social organization—can be better understood by studying other animals.
+
+Zoology provides important insights into neuroscience, cognition, and behavioural biology.
+
+---
+
+## Human Behaviour
+
+Studying animals helps humans understand:
+
+- Parenting
+- Cooperation
+- Competition
+- Communication
+- Social behaviour
+- Adaptation
+
+Human behaviour is influenced by biology but is also profoundly shaped by culture, education, and society.
+
+---
+
+## Society
+
+Animals support civilization through:
+
+- Agriculture
+- Fisheries
+- Transportation (historically)
+- Scientific research
+- Ecosystem services
+- Tourism
+
+Healthy animal populations contribute to resilient societies.
+
+---
+
+## Economics
+
+Zoology supports industries including:
+
+- Livestock production
+- Fisheries
+- Aquaculture
+- Veterinary medicine
+- Wildlife tourism
+- Biotechnology
+- Conservation
+
+Animal science contributes significantly to global food security and economic development.
+
+---
+
+## Politics & Governance
+
+Governments use zoological knowledge for:
+
+- Wildlife conservation
+- Fisheries management
+- Veterinary health
+- Disease surveillance
+- Animal welfare
+- Biodiversity protection
+
+Scientific evidence supports responsible management of animal populations.
+
+---
+
+## Technology
+
+Zoology contributes to technologies such as:
+
+- Wildlife tracking
+- Veterinary diagnostics
+- Animal genetics
+- Conservation monitoring
+- Biomimicry
+- Artificial intelligence inspired by animal behaviour
+
+Nature continues to inspire technological innovation.
+
+---
+
+## Philosophy & Spirituality
+
+Zoology reminds us that humans are not separate from the animal kingdom.
+
+We share common ancestry and many biological processes with other animals.
+
+Science explains **how animals evolved, function, and interact with ecosystems**, while philosophy and spirituality often explore ethical questions about our responsibilities toward other living beings.
+
+HumanOS distinguishes these ethical discussions from scientific evidence while recognizing that both influence how societies choose to treat animals.
+
+---
+
+# Applying this Knowledge
+
+Understanding zoology helps us become better stewards of animal life.
+
+### 🐾 Respect Animal Life
+
+Recognize that every species plays a role within larger ecosystems.
+
+---
+
+### 🌿 Protect Wildlife
+
+Supporting habitat conservation helps preserve biodiversity and ecosystem stability.
+
+---
+
+### 🍽 Make Responsible Choices
+
+Sustainable farming, fishing, and responsible consumption help maintain healthy animal populations.
+
+---
+
+### 🩺 Care for Animal Health
+
+Responsible treatment of domestic and wild animals benefits both animal welfare and human health.
+
+---
+
+### 🌍 Understand Our Place
+
+Humans are one species among millions.
+
+Understanding zoology encourages humility, responsibility, and appreciation for the diversity of life that shares our planet.
+
+---
+
+# Role in HumanOS
+
+Within HumanOS, **Zoology** explains **how the animal kingdom evolved and functions**.
+
+After [[Botany]] explores the organisms that capture solar energy and sustain ecosystems, Zoology examines the animals that depend directly or indirectly on plants and on one another.
+
+It prepares the foundation for [[Biodiversity]], where plants, animals, microorganisms, and ecosystems come together as one interconnected living world.
+
+---
+
+# Knowledge Relationships
+
+## Depends On
+
+- [[Evolution]]
+- [[Cell Biology]]
+- [[Genetics]]
+- [[Botany]]
+
+---
+
+## Enables
+
+- [[Biodiversity]]
+- [[Human]]
+- [[Health & Medicine]]
+- [[Psychology]]
+- [[Ecology]]
+
+---
+
+## Related
+
+- [[Evolution]]
+
+---
+
+# Key Insight
+
+> **Zoology reveals that humans are one branch of an extraordinary animal kingdom shaped by hundreds of millions of years of evolution. By understanding animals—their biology, behaviour, and relationships with ecosystems—we better understand our own bodies, protect biodiversity, improve medicine and agriculture, and recognize that the health of humanity is inseparable from the health of the animal life with which we share Earth.**
+
+---
+
+<div class="cta-row"><a class="os-cta" href="/04-life-sciences/08---biodiversity" data-no-popover="true">
+<span class="os-cta-text"><span class="os-cta-label">Next: Biodiversity</span><span class="os-cta-sub">Biodiversity explains the richness of life on Earth. It reveals how the diversity of...</span></span>
+<span class="os-cta-arrow">&rarr;</span>
+</a></div>
